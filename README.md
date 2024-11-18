@@ -6,9 +6,8 @@ This project is a Python tool that collects and displays system information, che
 
 ## Requirements
 
-- Python 3.x
-- `colorama` library
-- `psutil` library
+- `colorama` library (pip install colorama)
+- `psutil` library (pip install psutil)
 
 ## Installation
 
