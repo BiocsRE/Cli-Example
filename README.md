@@ -13,7 +13,7 @@ This project is a Python tool that collects and displays system information, che
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/your-username/system-info-tool.git
+   git clone https://github.com/BiocsRE/system-info-tool.git
    cd system-info-tool
 2. **CMD:**
 
