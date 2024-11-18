@@ -16,9 +16,9 @@ This project is a Python tool that collects and displays system information, che
    git clone https://github.com/your-username/system-info-tool.git
    cd system-info-tool
 2. **CMD:**
-cd Desktop
 
-python cli.py
+- cd Desktop
+-python cli.py
 
 ![image](https://github.com/user-attachments/assets/2f07b060-b205-464b-8e54-45aedf460c72)
 
